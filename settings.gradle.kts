@@ -4,4 +4,4 @@ include(
     ":compose-backstack-xray",
     ":sample"
 )
-rootProject.name = "compose-backstack"
+rootProject.name = "compose-backstack-root"
